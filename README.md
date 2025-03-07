@@ -1,4 +1,4 @@
-
+@
 # isarray
 
 `Array#isArray` for older browsers and deprecated Node.js versions.
